@@ -1,0 +1,16 @@
+{
+  "name": "Nayla Fauziah — Software Engineer",
+  "short_name": "NAYLA.",
+  "description": "Portfolio of Nayla Fauziah, Software Engineer / Frontend Developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF9",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

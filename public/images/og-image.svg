@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAFAF9"/>
+      <stop offset="100%" stop-color="#FFF7ED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <g fill="#0F172A" font-family="Manrope, Inter, system-ui, sans-serif">
+    <text x="96" y="180" font-size="22" font-weight="700" letter-spacing="6" fill="#F97316">SOFTWARE ENGINEER · PORTFOLIO</text>
+    <text x="96" y="310" font-size="86" font-weight="800" letter-spacing="-2">Nayla Fauziah</text>
+    <text x="96" y="400" font-size="42" font-weight="600" fill="#64748B">Building thoughtful digital experiences.</text>
+  </g>
+
+  <g transform="translate(96, 470)">
+    <rect width="180" height="64" rx="14" fill="#F97316"/>
+    <text x="90" y="42" text-anchor="middle" font-family="Manrope, system-ui" font-size="22" font-weight="700" fill="#fff">View Work →</text>
+  </g>
+
+  <g transform="translate(970, 80)">
+    <circle cx="60" cy="60" r="48" fill="#F97316" fill-opacity="0.08"/>
+    <circle cx="60" cy="60" r="10" fill="#F97316"/>
+  </g>
+  <line x1="96" y1="580" x2="1104" y2="580" stroke="#E7E5E4" stroke-width="1"/>
+</svg>
